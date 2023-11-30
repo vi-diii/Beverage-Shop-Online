@@ -1,0 +1,24 @@
+E:\uel\Deep Learning\Practice\Product\SalesDataModel\bin\Debug\net7.0\SalesDataModel.deps.json
+E:\uel\Deep Learning\Practice\Product\SalesDataModel\bin\Debug\net7.0\SalesDataModel.dll
+E:\uel\Deep Learning\Practice\Product\SalesDataModel\bin\Debug\net7.0\SalesDataModel.pdb
+E:\uel\Deep Learning\Practice\Product\SalesDataModel\obj\Debug\net7.0\SalesDataModel.csproj.AssemblyReference.cache
+E:\uel\Deep Learning\Practice\Product\SalesDataModel\obj\Debug\net7.0\SalesDataModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\uel\Deep Learning\Practice\Product\SalesDataModel\obj\Debug\net7.0\SalesDataModel.AssemblyInfoInputs.cache
+E:\uel\Deep Learning\Practice\Product\SalesDataModel\obj\Debug\net7.0\SalesDataModel.AssemblyInfo.cs
+E:\uel\Deep Learning\Practice\Product\SalesDataModel\obj\Debug\net7.0\SalesDataModel.csproj.CoreCompileInputs.cache
+E:\uel\Deep Learning\Practice\Product\SalesDataModel\obj\Debug\net7.0\SalesDataModel.dll
+E:\uel\Deep Learning\Practice\Product\SalesDataModel\obj\Debug\net7.0\refint\SalesDataModel.dll
+E:\uel\Deep Learning\Practice\Product\SalesDataModel\obj\Debug\net7.0\SalesDataModel.pdb
+E:\uel\Deep Learning\Practice\Product\SalesDataModel\obj\Debug\net7.0\ref\SalesDataModel.dll
+C:\Users\GP2023\Documents\Zalo Received Files\ProductRecommendationPurchase\ProductRecommendationPurchase\SalesDataModel\bin\Debug\net7.0\SalesDataModel.deps.json
+C:\Users\GP2023\Documents\Zalo Received Files\ProductRecommendationPurchase\ProductRecommendationPurchase\SalesDataModel\bin\Debug\net7.0\SalesDataModel.dll
+C:\Users\GP2023\Documents\Zalo Received Files\ProductRecommendationPurchase\ProductRecommendationPurchase\SalesDataModel\bin\Debug\net7.0\SalesDataModel.pdb
+C:\Users\GP2023\Documents\Zalo Received Files\ProductRecommendationPurchase\ProductRecommendationPurchase\SalesDataModel\obj\Debug\net7.0\SalesDataModel.csproj.AssemblyReference.cache
+C:\Users\GP2023\Documents\Zalo Received Files\ProductRecommendationPurchase\ProductRecommendationPurchase\SalesDataModel\obj\Debug\net7.0\SalesDataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GP2023\Documents\Zalo Received Files\ProductRecommendationPurchase\ProductRecommendationPurchase\SalesDataModel\obj\Debug\net7.0\SalesDataModel.AssemblyInfoInputs.cache
+C:\Users\GP2023\Documents\Zalo Received Files\ProductRecommendationPurchase\ProductRecommendationPurchase\SalesDataModel\obj\Debug\net7.0\SalesDataModel.AssemblyInfo.cs
+C:\Users\GP2023\Documents\Zalo Received Files\ProductRecommendationPurchase\ProductRecommendationPurchase\SalesDataModel\obj\Debug\net7.0\SalesDataModel.csproj.CoreCompileInputs.cache
+C:\Users\GP2023\Documents\Zalo Received Files\ProductRecommendationPurchase\ProductRecommendationPurchase\SalesDataModel\obj\Debug\net7.0\SalesDataModel.dll
+C:\Users\GP2023\Documents\Zalo Received Files\ProductRecommendationPurchase\ProductRecommendationPurchase\SalesDataModel\obj\Debug\net7.0\refint\SalesDataModel.dll
+C:\Users\GP2023\Documents\Zalo Received Files\ProductRecommendationPurchase\ProductRecommendationPurchase\SalesDataModel\obj\Debug\net7.0\SalesDataModel.pdb
+C:\Users\GP2023\Documents\Zalo Received Files\ProductRecommendationPurchase\ProductRecommendationPurchase\SalesDataModel\obj\Debug\net7.0\ref\SalesDataModel.dll

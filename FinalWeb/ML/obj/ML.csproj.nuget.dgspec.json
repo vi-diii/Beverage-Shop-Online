@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\NguyenTuongVy_K204162009_K20416C\\FinalWeb\\ML\\ML.csproj": {}
+  },
+  "projects": {
+    "D:\\NguyenTuongVy_K204162009_K20416C\\FinalWeb\\ML\\ML.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NguyenTuongVy_K204162009_K20416C\\FinalWeb\\ML\\ML.csproj",
+        "projectName": "ML",
+        "projectPath": "D:\\NguyenTuongVy_K204162009_K20416C\\FinalWeb\\ML\\ML.csproj",
+        "packagesPath": "C:\\Users\\GP2023\\.nuget\\packages\\",
+        "outputPath": "D:\\NguyenTuongVy_K204162009_K20416C\\FinalWeb\\ML\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\GP2023\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+﻿
+@{
+    ViewData["Title"] = "PlaceOrder";
+    Layout = "~/Views/Shared/_DrinksLayout.cshtml";
+}
+@{
+    var userName = Context.Session.GetString("UserName");
+    var userFullName = Context.Session.GetString("ContactName"); // Replace with the actual session key for the full name
+
+    var isAuthenticated = !string.IsNullOrEmpty(userName);
+}
+@model List<Cart>
+<div class="checkout__form">
+    <p>Dear @userFullName</p>
+
+    <p>Congratulations! Your order has been successfully placed. Below is the invoice for your order:</p>
+    <h4>Billing Details</h4>
+    <form action="#">
+        <div class="row">
+            <div class="col-lg-8 col-md-6">
+                <div class="checkout__order">
+                    <h4>Your Order</h4>
+                    <div class="checkout__order__products">Products <span>Total</span></div>
+                    <ul>
+                        @foreach (var item in Model)
+                {
+                        <li>@item.ProductName <span>@item.TotalAmount</span></li>
+                }
+                    </ul>
+                    <div class="checkout__order__subtotal">Subtotal <span>@ViewBag.CartTotal</span></div>
+                    <div class="checkout__order__total">Total <span>@ViewBag.CartTotal</span></div>
+                    
+                    <p>
+                    
+                        We offer a wide variety of beverages to choose from, including milk, bottled water, and more. All of our beverages are made with fresh, high-quality ingredients and are carefully crafted to ensure the best possible taste.
+
+                        We are always looking for ways to improve our products and services, and we appreciate your feedback. Please let us know if you have any questions or suggestions.
+
+                        K20416C is a leading beverage company that offers a wide variety of high-quality beverages at competitive prices. We are committed to providing our customers with the best possible shopping experience.
+
+                        Visit K20416C today to explore our wide selection of beverages and discover your new favorite drink!
+                        
+                        variety of beverages
+
+                        K20416C - Your one-stop shop for all your beverage needs!
+                    </p>
+                    <div class="checkout__input__checkbox">
+                        <label for="payment">
+                            Check Payment
+                            <input type="checkbox" id="payment">
+                            <span class="checkmark"></span>
+                        </label>
+                    </div>
+                   
+                </div>
+               
+               
+            </div>
+        </div>
+    </form>
+</div>
+

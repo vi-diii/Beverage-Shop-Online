@@ -1,0 +1,43 @@
+﻿@model List<RecommendedProduct>
+<section class="categories">
+    <div class="section-title">
+        <h2>Recommended Products: </h2>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="product__discount__slider owl-carousel owl-loaded owl-drag">
+                <div class="owl-stage-outer">
+                    <div class="owl-stage" style="transform: translate3d(-1200px, 0px, 0px); transition: all 1.2s ease 0s; width: 2880px;">
+                        @foreach (var product in Model)
+                        {
+                            <div class="owl-item cloned" style="width: 240px;">
+                                <div class="col-lg-4">
+                                    <div class="product__discount__item">
+                                        <div class="product__discount__item__pic set-bg" data-setbg="../Assets/img/@product.ProductImage" style="background-image: url(&quot;../Assets/img/@product.ProductImage&quot;);">
+                                            <div class="product__discount__percent">+@(product.Score*100)%</div>
+                                            <ul class="product__item__pic__hover">
+                                                <li><a href="#"><i class="fa fa-heart"></i></a></li>
+                                                <li><a href="#"><i class="fa fa-retweet"></i></a></li>
+                                                <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="product__discount__item__text">
+
+                                            <h5><a href="#">@product.ProductName</a></h5>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+                <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev">
+                    <span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next">
+                        <span aria-label="Next">›</span></button></div><div class="owl-dots">
+                </div>        
+            </div>
+        </div>
+    </div>
+</section>
+

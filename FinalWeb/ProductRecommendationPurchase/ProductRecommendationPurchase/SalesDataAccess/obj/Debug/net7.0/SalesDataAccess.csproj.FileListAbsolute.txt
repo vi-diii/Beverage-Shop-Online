@@ -1,0 +1,30 @@
+E:\uel\Deep Learning\Practice\Product\SalesDataAccess\bin\Debug\net7.0\SalesDataAccess.deps.json
+E:\uel\Deep Learning\Practice\Product\SalesDataAccess\bin\Debug\net7.0\SalesDataAccess.dll
+E:\uel\Deep Learning\Practice\Product\SalesDataAccess\bin\Debug\net7.0\SalesDataAccess.pdb
+E:\uel\Deep Learning\Practice\Product\SalesDataAccess\bin\Debug\net7.0\SalesDataModel.dll
+E:\uel\Deep Learning\Practice\Product\SalesDataAccess\bin\Debug\net7.0\SalesDataModel.pdb
+E:\uel\Deep Learning\Practice\Product\SalesDataAccess\obj\Debug\net7.0\SalesDataAccess.csproj.AssemblyReference.cache
+E:\uel\Deep Learning\Practice\Product\SalesDataAccess\obj\Debug\net7.0\SalesDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\uel\Deep Learning\Practice\Product\SalesDataAccess\obj\Debug\net7.0\SalesDataAccess.AssemblyInfoInputs.cache
+E:\uel\Deep Learning\Practice\Product\SalesDataAccess\obj\Debug\net7.0\SalesDataAccess.AssemblyInfo.cs
+E:\uel\Deep Learning\Practice\Product\SalesDataAccess\obj\Debug\net7.0\SalesDataAccess.csproj.CoreCompileInputs.cache
+E:\uel\Deep Learning\Practice\Product\SalesDataAccess\obj\Debug\net7.0\SalesDataAccess.csproj.CopyComplete
+E:\uel\Deep Learning\Practice\Product\SalesDataAccess\obj\Debug\net7.0\SalesDataAccess.dll
+E:\uel\Deep Learning\Practice\Product\SalesDataAccess\obj\Debug\net7.0\refint\SalesDataAccess.dll
+E:\uel\Deep Learning\Practice\Product\SalesDataAccess\obj\Debug\net7.0\SalesDataAccess.pdb
+E:\uel\Deep Learning\Practice\Product\SalesDataAccess\obj\Debug\net7.0\ref\SalesDataAccess.dll
+C:\Users\GP2023\Documents\Zalo Received Files\ProductRecommendationPurchase\ProductRecommendationPurchase\SalesDataAccess\bin\Debug\net7.0\SalesDataAccess.deps.json
+C:\Users\GP2023\Documents\Zalo Received Files\ProductRecommendationPurchase\ProductRecommendationPurchase\SalesDataAccess\bin\Debug\net7.0\SalesDataAccess.dll
+C:\Users\GP2023\Documents\Zalo Received Files\ProductRecommendationPurchase\ProductRecommendationPurchase\SalesDataAccess\bin\Debug\net7.0\SalesDataAccess.pdb
+C:\Users\GP2023\Documents\Zalo Received Files\ProductRecommendationPurchase\ProductRecommendationPurchase\SalesDataAccess\bin\Debug\net7.0\SalesDataModel.dll
+C:\Users\GP2023\Documents\Zalo Received Files\ProductRecommendationPurchase\ProductRecommendationPurchase\SalesDataAccess\bin\Debug\net7.0\SalesDataModel.pdb
+C:\Users\GP2023\Documents\Zalo Received Files\ProductRecommendationPurchase\ProductRecommendationPurchase\SalesDataAccess\obj\Debug\net7.0\SalesDataAccess.csproj.AssemblyReference.cache
+C:\Users\GP2023\Documents\Zalo Received Files\ProductRecommendationPurchase\ProductRecommendationPurchase\SalesDataAccess\obj\Debug\net7.0\SalesDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GP2023\Documents\Zalo Received Files\ProductRecommendationPurchase\ProductRecommendationPurchase\SalesDataAccess\obj\Debug\net7.0\SalesDataAccess.AssemblyInfoInputs.cache
+C:\Users\GP2023\Documents\Zalo Received Files\ProductRecommendationPurchase\ProductRecommendationPurchase\SalesDataAccess\obj\Debug\net7.0\SalesDataAccess.AssemblyInfo.cs
+C:\Users\GP2023\Documents\Zalo Received Files\ProductRecommendationPurchase\ProductRecommendationPurchase\SalesDataAccess\obj\Debug\net7.0\SalesDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\GP2023\Documents\Zalo Received Files\ProductRecommendationPurchase\ProductRecommendationPurchase\SalesDataAccess\obj\Debug\net7.0\SalesDataAccess.csproj.CopyComplete
+C:\Users\GP2023\Documents\Zalo Received Files\ProductRecommendationPurchase\ProductRecommendationPurchase\SalesDataAccess\obj\Debug\net7.0\SalesDataAccess.dll
+C:\Users\GP2023\Documents\Zalo Received Files\ProductRecommendationPurchase\ProductRecommendationPurchase\SalesDataAccess\obj\Debug\net7.0\refint\SalesDataAccess.dll
+C:\Users\GP2023\Documents\Zalo Received Files\ProductRecommendationPurchase\ProductRecommendationPurchase\SalesDataAccess\obj\Debug\net7.0\SalesDataAccess.pdb
+C:\Users\GP2023\Documents\Zalo Received Files\ProductRecommendationPurchase\ProductRecommendationPurchase\SalesDataAccess\obj\Debug\net7.0\ref\SalesDataAccess.dll

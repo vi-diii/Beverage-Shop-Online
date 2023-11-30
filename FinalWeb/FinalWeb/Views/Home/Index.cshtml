@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_DrinksLayout.cshtml";
+
+}
+@using X.PagedList.Mvc.Core;
+@using static FinalWeb.Controllers.HomeController;
+ @model X.PagedList.IPagedList<Product>  ;
+
+
+
+<div class="row">
+    @foreach (var item in Model)
+        {
+            @await Html.PartialAsync("partialSP", item)
+        }
+    </div>
+
+
+<div class="col-lg-12">
+    <div class="featured__controls">
+        <div class="product__pagination">
+            <ul>
+                @Html.PagedListPager(Model, page=>Url.Action("Index", new {page = page}))
+            </ul>
+            <a href="#"><i class="fa fa-long-arrow-right"></i></a>
+        </div>
+    </div>
+
+</div>
+
+
+
+
+
+
